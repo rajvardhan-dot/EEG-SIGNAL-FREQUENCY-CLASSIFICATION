@@ -18,5 +18,6 @@ filtered signal with the help of FFT. The lab view software tool
 is used to this work it is easier to mat lab .software because
 there is programming is not used in lab view 
 ![image](https://github.com/rajvardhan-dot/EEG-SIGNAL-FREQUENCY-CLASSIFICATION/assets/81967399/90f27dae-66ef-4d94-9d0e-e7aaddc2d7ca)
-![Uploading image.png…]()
+![image](https://github.com/rajvardhan-dot/EEG-SIGNAL-FREQUENCY-CLASSIFICATION/assets/81967399/e4dc5881-758c-44a0-9729-82b7d352c429)
+
 
